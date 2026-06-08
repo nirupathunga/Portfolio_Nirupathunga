@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
       category: "Professional Community"
     },
     {
-      image: "certificates/Img_16.jpg", // Correct extension match (.jpg)
+      image: "certificates/Img_16.jpeg", // Correct extension match (.jpg)
       title: "Intellectual Property UTSAV",
       subtitle: "MIC & AICTE | Masterclass Series",
       category: "Governance"
