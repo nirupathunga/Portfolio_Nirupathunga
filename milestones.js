@@ -2,139 +2,139 @@ document.addEventListener('DOMContentLoaded', () => {
   // 1. MASTER CERTIFICATION DATA REGISTRY (23 CARDS VERBATIM)
   const masterRegistry = [
     {
-      image: "assets/Img_10.jpeg",
+      image: "assets/aistudio/Img_10.jpeg",
       title: "Aryabhatta National Maths Competition - 2025",
       subtitle: "AICTSD | Round 1 Score - 96.67%",
       category: "Mathematics"
     },
     {
-      image: "assets/Img_11.jpeg",
+      image: "assets/aistudio/Img_11.jpeg",
       title: "Aryabhatta National Maths Competition - 2025",
       subtitle: "AICTSD | All India Rank - 41",
       category: "Mathematics"
     },
     {
-      image: "assets/Img_12.jpeg",
+      image: "assets/aistudio/Img_12.jpeg",
       title: "Design Thinking - A Primer",
       subtitle: "NPTEL Online Certification (IIT Madras) | Elite Tag - 81%",
       category: "Design Thinking"
     },
     {
-      image: "assets/Img_13.jpeg",
+      image: "assets/aistudio/Img_13.jpeg",
       title: "Introduction to Internet of Things",
       subtitle: "NPTEL Online Certification (IIT Kharagpur) | Elite Tag - 82%",
       category: "Internet of Things"
     },
     {
-      image: "assets/Img_14.jpeg",
+      image: "assets/aistudio/Img_14.jpeg",
       title: "TECHATHON'24 — Paper Pursuit",
       subtitle: "Sri Ramakrishna Institute of Technology | Department of ECE",
       category: "Exhibition"
     },
     {
-      image: "assets/Img_15.jpeg",
+      image: "assets/aistudio/Img_15.jpeg",
       title: "ASME TN-NOVATE",
       subtitle: "ASME Tamil Nadu Section | Certificate of Appreciation",
       category: "Professional Community"
     },
     {
-      image: "assets/Img_16.jpeg",
+      image: "assets/aistudio/Img_16.jpg",
       title: "Intellectual Property UTSAV",
       subtitle: "MIC & AICTE | Masterclass Series",
       category: "Governance"
     },
     {
-      image: "assets/Img_17.jpeg",
+      image: "assets/aistudio/Img_17.jpeg",
       title: "WWT All India Women Only Hackathon",
       subtitle: "Shooting Stars Foundation & WWT | Team: Code Warriors",
       category: "Hackathon"
     },
     {
-      image: "assets/Img_18.jpeg",
+      image: "assets/aistudio/Img_18.jpeg",
       title: "Internal Smart India Hackathon 2025",
       subtitle: "Selected as TOP TEAM (Hardware Track) | Team HackHIVE",
       category: "Hackathon"
     },
     {
-      image: "assets/Img_19.jpeg",
+      image: "assets/aistudio/Img_19.jpeg",
       title: "Adobe India Hackathon",
       subtitle: "Unstop & Adobe | Team: HackHarmonics (Round 1)",
       category: "Hackathon"
     },
     {
-      image: "assets/Img_20.jpeg",
+      image: "assets/aistudio/Img_20.jpeg",
       title: "Bharatiya Antariksh Hackathon 2025",
       subtitle: "ISRO & Hack2Skill | National Space Idea Submission",
       category: "Aerospace"
     },
     {
-      image: "assets/Img_21.jpeg",
+      image: "assets/aistudio/Img_21.jpeg",
       title: "NASA International Space Apps Challenge",
       subtitle: "NASA Galactic Problem Solver | Global Initiative",
       category: "Hackathon"
     },
     {
-      image: "assets/Img_22.jpeg",
+      image: "assets/aistudio/Img_22.jpeg",
       title: "IIC Regional Meet 2025",
       subtitle: "MoE's Innovation Cell & AICTE | Hosted by PSG College",
       category: "Ecosystem"
     },
     {
-      image: "assets/Img_23.jpeg",
+      image: "assets/aistudio/Img_23.jpeg",
       title: "Visa 24hrs AI Hackathon — Shaastra 2026",
       subtitle: "IIT Madras & Unstop | Fast-Paced AI Innovation Challenge",
       category: "Hackathon"
     },
     {
-      image: "assets/Img_24.jpeg",
+      image: "assets/aistudio/Img_24.jpeg",
       title: "KRUU GRASP Hackathon 2026",
       subtitle: "Powered by ASME India & KRUU | Grassroots Innovation",
       category: "Hackathon"
     },
     {
-      image: "assets/Img_25.jpeg",
+      image: "assets/aistudio/Img_25.jpeg",
       title: "ASME EFx SRIT 2026",
       subtitle: "American Society of Mechanical Engineers | National Assembly",
       category: "National Gathering"
     },
     {
-      image: "assets/Img_26.jpeg",
+      image: "assets/aistudio/Img_26.jpeg",
       title: "ASME EFx SJCET Palai",
       subtitle: "American Society of Mechanical Engineers | National Engineering Festival (Kerala)",
       category: "National Gathering"
     },
     {
-      image: "assets/Img_27.jpeg",
+      image: "assets/aistudio/Img_27.jpeg",
       title: "FOSSEE Open Source Hardware Hackathon 2026",
       subtitle: "IIT Bombay | Open Source Initiative",
       category: "Research"
     },
     {
-      image: "assets/Img_28.jpeg",
+      image: "assets/aistudio/Img_28.jpeg",
       title: "The FEME Collective",
       subtitle: "ASME Women in Engineering Interest Group | Global Summit",
       category: "Leadership"
     },
     {
-      image: "assets/Img_29.jpeg",
+      image: "assets/aistudio/Img_29.jpeg",
       title: "TN-IMPACT 2026 — Special Expert Sessions",
       subtitle: "TANCAM (Dassault Systèmes & TIDCO) | Industrial Hackathon at KIT",
       category: "Manufacturing"
     },
     {
-      image: "assets/Img_32.jpeg",
+      image: "assets/aistudio/Img_32.jpeg",
       title: "National Buildathon 2026",
       subtitle: "Forge India & Unstop | Participation (Team Rudhra)",
       category: "Buildathon"
     },
     {
-      image: "assets/Img_31.jpeg",
+      image: "assets/aistudio/Img_31.jpeg",
       title: "National Buildathon 2026 — Development Submission",
       subtitle: "Forge India & Unstop | Advanced Milestone",
       category: "Buildathon"
     },
     {
-      image: "assets/Img_9.jpeg",
+      image: "assets/aistudio/Img_9.jpeg",
       title: "ASME EFx SRIT 2026 — Oral Competition",
       subtitle: "ASME India | Technical Presentation Digital Badge",
       category: "Accolade"
